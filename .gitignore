@@ -1,0 +1,5 @@
+*.o
+*.so
+test_app
+docs/html/
+docs/latex/
